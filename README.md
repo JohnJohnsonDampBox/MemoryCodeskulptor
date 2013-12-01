@@ -1,4 +1,4 @@
-MemoryCodeskulptor
+Memory 
 ==================
 
 Memory Game in Codeskulptor
